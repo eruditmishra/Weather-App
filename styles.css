@@ -262,7 +262,8 @@ h1 {
   object-fit: cover;
 }
 
-.weather-desc {
+.weather-desc,
+.api-error-text {
   text-transform: capitalize;
 }
 
