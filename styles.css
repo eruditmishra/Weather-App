@@ -262,6 +262,10 @@ h1 {
   object-fit: cover;
 }
 
+.weather-desc {
+  text-transform: capitalize;
+}
+
 @media (max-width: 768px) {
   h1 {
     font-size: 1.75rem;
